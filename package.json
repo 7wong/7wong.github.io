@@ -1,5 +1,5 @@
 {
-  "name": "documents",
+  "name": "7wong",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shanyuhai123/documents.git"
+    "url": "git @github.com:7wong/7wong.github.io.git"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shanyuhai123/documents/issues"
+    "url": "https://github.com/7wong/7wong.github.io/issues"
   },
-  "homepage": "https://github.com/shanyuhai123/documents#readme",
+  "homepage": "https://github.com/7wong/7wong.github.io",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",

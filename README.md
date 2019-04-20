@@ -5,7 +5,7 @@
 ## 如何使用
 ```bash
 # 1. 首先拷贝该项目
-git clone git@github.com:shanyuhai123/documents.git
+git clone https://github.com/7wong/7wong.github.io
 
 # 2. 安装依赖
 yarn add # 或者 npm i

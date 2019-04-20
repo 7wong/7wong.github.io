@@ -10,13 +10,13 @@ npm run docs:build
 cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
-echo 'docs.shanyuhai.top' > CNAME
+echo 'mrde.cc' > CNAME
 
 git init
 git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:shanyuhai123/documents.git master:gh-pages
+git push -f git@github.com:7wong/7wong.github.io.git master:gh-pages
 
 cd -
